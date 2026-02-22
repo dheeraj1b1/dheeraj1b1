@@ -13,8 +13,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
 ## ⚙️ Core Expertise
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -23,6 +21,8 @@
 ![REST Assured](https://img.shields.io/badge/REST_Assured-009688?style=flat)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+## 🛠 Tech Stack
 
 ### Languages
 Java | Python (Basic)
