@@ -8,10 +8,10 @@
 
 ## 💼 About Me
 
-- 🔹 4+ years of experience in QA Automation within BFSI domain  
-- 🔹 Specialized in building scalable UI + API hybrid automation frameworks  
-- 🔹 Strong experience in CI/CD integration using Jenkins (AWS EC2) & GitHub Actions  
-- 🔹 Focused on regression optimization, automation architecture, and release stability  
+ 🔹 4+ years of experience in QA Automation within BFSI domain  
+ 🔹 Specialized in building scalable UI + API hybrid automation frameworks  
+ 🔹 Strong experience in CI/CD integration using Jenkins (AWS EC2) & GitHub Actions  
+ 🔹 Focused on regression optimization, automation, and release stability  
 
 ---
 
