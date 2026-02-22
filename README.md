@@ -15,6 +15,15 @@
 
 ## 🛠 Tech Stack
 
+## ⚙️ Core Expertise
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=flat)
+![REST Assured](https://img.shields.io/badge/REST_Assured-009688?style=flat)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
 ### Languages
 Java | Python (Basic)
 
@@ -40,8 +49,8 @@ MySQL | PostgreSQL | AWS EC2 | AWS RDS | Kafka
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Portfolio & Connect
 
-- 📧 Email: dheeraj474@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/dheerajbme  
-- 💻 Portfolio: https://dheeraj1b1.github.io/
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge)](https://dheeraj1b1.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj%20B-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dheerajbme)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheeraj474@gmail.com)
